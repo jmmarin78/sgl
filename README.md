@@ -1,0 +1,2 @@
+# sgl
+OpenGL standardization library
