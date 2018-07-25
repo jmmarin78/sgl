@@ -1,11 +1,10 @@
 #pragma once
 
-#include <pre/gl.h>
+#include <sgl/gl.h>
 
 // ************************************************************
 // Common functions
 // ************************************************************
-#include <pre_deprecated.h>
 #include <pre/log.h>
 #include <cassert>
 
